@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @NeelDevenShah
+- 👀 I’m interested in web development and machine learning
+- 🌱 I’m currently learning machine learning
+- 📫 Reach me on neeldevenshah@gmail.com
+- My LinkedIn Account https://www.linkedin.com/in/neel-shah-254457239/
+- Feel Free To Contact Me...
