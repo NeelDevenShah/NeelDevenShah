@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeelDevenShah
 - 👀 I’m interested in API development, machine learning and web development
 - 🌱 I’m currently learning machine learning
-- 📫 Reach me on neeldevenshah@gmail.com
-- My LinkedIn Account https://www.linkedin.com/in/neel-shah-254457239/
+- 📫 Reach me on neeldevenshah.ai@gmail.com
+- My LinkedIn Account https://www.linkedin.com/in/neeldevenshah/
 - Feel Free To Contact Me...
