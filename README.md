@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neeldevenshah/)
 [![Kaggle](https://img.shields.io/badge/-KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/neelshah2022)
 [![Medium](https://img.shields.io/badge/-MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@neeldevenshah)
-<a href="neeldevenshah.github.io" target="_blank">
+<a href="https://neeldevenshah.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
   </a>
 
