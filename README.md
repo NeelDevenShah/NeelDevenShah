@@ -10,23 +10,24 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate AI Engineer and Data Scientist, revolutionizing industries through innovative AI solutions. With a keen interest in cutting-edge technologies, I'm constantly pushing the boundaries of what's possible in the world of artificial intelligence.
+I'm an AI Engineer with 2 years of hands-on experience building and shipping production-grade AI systems — from multi-agent frameworks and LLM-powered decision engines to large-scale computer vision pipelines. I've delivered end-to-end AI solutions for clients across the USA, Saudi Arabia, Germany, and the Middle East, spanning e-commerce, government, manufacturing, and automotive sectors.
 
-### 🌱 Currently Learning
+🏅 Ranked **Top 0.1% (64th of 20,000+ teams)** in the Amazon ML Challenge 2024, a **5X Hackathon Winner**, and certified as a **Microsoft Azure Data Scientist Associate** and **Databricks Certified Data Engineer Associate**. I thrive in fast-moving environments where owning problems end-to-end and shipping real impact matters.
 
-- State-of-the-art MLOps practices for seamless AI deployment and monitoring
-- Advanced Azure AI and cognitive services for building intelligent cloud solutions
-- Graph-based machine learning models for complex relational data analysis
-- Deep reinforcement learning techniques for robotics and autonomous systems
+### 🌱 Currently Working On
+
+- Multi-agent AI frameworks (CrewAI, LangGraph, MCP) for enterprise decision-making and evaluation systems
+- Large-scale computer vision pipelines for surveillance, tracking, and workforce productivity analytics
+- On-premise deployment of open-source LLMs (Qwen2.5 VL, Qwen3) for security- and compliance-sensitive environments
+- Benchmarking state-of-the-art ASR and TTS models for high-throughput, low-latency voice AI
 
 ### 💬 Ask Me About
 
-- Designing and implementing end-to-end machine learning pipelines
-- Optimizing deep learning models for edge devices and cloud deployment
-- Leveraging Azure's AI infrastructure for scalable and efficient AI solutions
-- Implementing MLOps best practices for continuous integration and deployment of ML models
-- Applying graph-based models and algorithms to solve complex network problems
-- Developing reinforcement learning agents for real-world applications
+- Designing and shipping multi-agent AI systems with CrewAI, LangGraph, and MCP (Model Context Protocol)
+- Building and fine-tuning computer vision pipelines (YOLO, RF-DETR) with tracking/ReID (BoT-SORT, ByteTrack, DeepSORT)
+- Architecting production RAG, LLM-powered decision engines, and agentic workflows at enterprise scale
+- On-prem deployment of open-source LLMs, ASR, and TTS models for compliance-heavy environments
+- MLOps practices for continuous integration and deployment of ML systems
 
 ### 📫 How to Reach Me
 
@@ -34,22 +35,38 @@ Feel free to reach out at neeldevenshah.ai@gmail.com
 
 ### ⚡ Fun Fact
 
-"I've spent so much time training reinforcement learning agents that I've started to see life as a Markov Decision Process. The other day, I tried to calculate the Q-value of doing my laundry versus ordering takeout. Turns out, unlike RL agents, humans can't just reset the environment when things go wrong. Now I'm stuck in a suboptimal policy, wondering if there's a better state-action pair I'll never discover. At least my algorithms converge faster than my life decisions – most days, anyway. And don't even get me started on trying to model my social network as a graph – apparently, people don't appreciate being referred to as 'nodes' with 'edge weights'."
+"I spend my days training AI agents to make smart decisions — and my evenings still can't decide what to eat for dinner."
 
 ## 🛠️ Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </p>
+
+## 🧠 Core Focus Areas
+
+- **AI & ML:** Deep Learning, Computer Vision, NLP, Reinforcement Learning
+- **Generative AI:** LLMs, LoRA, RAG, Reranking, Guardrails, Diffusion Models, TTS/STT
+- **Agentic Systems:** CrewAI, LangGraph, LangChain, MCP (Model Context Protocol)
+- **MLOps:** Git, Docker, Kubernetes, Kafka, MLflow, W&B, Apache Airflow, CI/CD, VLLM, Unsloth
 
 ## 📊 GitHub Stats
 
@@ -68,6 +85,19 @@ Feel free to reach out at neeldevenshah.ai@gmail.com
     <img src="https://github-profile-trophy.vercel.app/?username=neeldevenshah&theme=darkhub&no-frame=true&row=1&column=7" alt="neeldevenshah" />
   </a>
 </p>
+
+## 🥇 Highlights
+
+- 🏅 Top 0.1% (64th of 20,000+ teams) — Amazon ML Challenge 2024
+- 🏅 Top 0.3% (All-India Rank 80 of 23,000+ teams) — Amazon ML Challenge 2025 (Price Prediction)
+- 🏆 5x AI Hackathon Winner
+- 🥇 1st place, IndoML Datathon 2025 – Phase 1 (Track 1) and Phase 2 (both tracks)
+- 🥈 2nd place, IndoML Datathon 2024 Phase 1 (350+ teams)
+- 🏅 Winner, The Maverick Effect AI Challenge
+- 🎖️ Top 11% (23rd of 196 teams) — Meesho Visual Taxonomy Data Challenge, CODS-COMAD
+- 🎓 Microsoft Certified: Azure Data Scientist Associate
+- 🎓 Databricks Certified Data Engineer Associate
+- 🏛️ Finalist, AI Hackathon 2024 at IIM Ahmedabad
 
 ---
 
