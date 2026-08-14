@@ -71,19 +71,7 @@ Feel free to reach out at neeldevenshah.ai@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neeldevenshah&show_icons=true&locale=en&layout=compact&theme=radical" alt="neeldevenshah" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeldevenshah&theme=radical" alt="neeldevenshah" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=neeldevenshah&theme=darkhub&no-frame=true&row=1&column=7" alt="neeldevenshah" />
-  </a>
 </p>
 
 ## 🥇 Highlights
